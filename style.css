@@ -1,0 +1,53 @@
+/* Google fonts Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Font femily setup of google fonts  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.header-customize{
+    background: #264653;
+}
+.button-customize{
+    background: #E76F51;
+    
+}
+button a{
+    text-decoration: none;
+}
+img{
+    width: 288px;
+}
+.gray-skill{
+    filter: grayscale(100%);
+}
+span{
+     color: #E76F51;
+    
+}
+.image-circle{
+    width: 149px;
+    height: 120px;
+    
+}
+.icon-color{
+    color: #E77C40;
+}
+.icon-border-color{
+    color: #E77C40;
+}
+
+.panda-bg-info{
+    background: #feeae9;
+   
+}
+
+.panda-btn-bynow {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
